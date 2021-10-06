@@ -1,0 +1,21 @@
+{
+  "name": "Balance-API-Interview-Task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "chai": "^4.3.4",
+    "chai-http": "^4.3.0",
+    "express": "^4.17.1",
+    "mocha": "^9.1.2",
+    "sinon": "^11.1.2"
+  },
+  "type": "module"
+}
