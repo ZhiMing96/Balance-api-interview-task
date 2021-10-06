@@ -22,6 +22,7 @@ There is a test scaffold test.js that you can use and package.json has been chan
 
 Aim to write clear and concise code.
 
+```
 const userBalances = {
 "user-1": {
 "BTC": "0.5",
@@ -34,3 +35,4 @@ const userBalances = {
 "ETH": "5",
 },
 }
+```
