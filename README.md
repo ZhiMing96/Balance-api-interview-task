@@ -22,6 +22,9 @@ There is a test scaffold test.js that you can use and package.json has been chan
 
 Aim to write clear and concise code.
 
+To give an example, let’s say the user’s balance is 0.5 BTC and 2 ETH. If the current BTC/USD price is 60000 and the ETH/USD price is 3000, then the user’s total balance in USD would be 60000 * 0.5 + 3000 * 2 = 36000 USD.
+
+
 ```
 const userBalances = {
 "user-1": {
