@@ -1,4 +1,11 @@
-Task
+## Instructions To Run 
+
+- `node index.js` to run server on `localhost:3000`
+- `npm test` to run test suite
+
+
+## Task
+
 Create one API endpoint using Node and Express that takes in a user id and returns the user's total balance in USD.
 
 Keep the user’s balances stored in memory. An example of the data to be stored is provided at the end of this section. Feel free to add more entries or change the way the data is stored if you want, but this is not necessary.
